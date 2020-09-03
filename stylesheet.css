@@ -29,5 +29,6 @@ color: white;
 .image-me{
 width: 75px;
 border-radius: 20px;
+float: right;
 }
 
