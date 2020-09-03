@@ -26,8 +26,12 @@ background-color: #4CAF50;
 color: white;
 }
 
+.div-profile{
+    align-content: left;
+}
+
 .image-me{
-width: 75px;
+width: 100px;
 border-radius: 20px;
 float: right;
 }
