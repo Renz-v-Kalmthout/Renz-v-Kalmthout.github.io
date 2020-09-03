@@ -4,12 +4,12 @@ background-color:rgb(250, 242, 231);
 }
 .topnav {
 overflow: hidden;
-background-color: #333;
+background-color: rgb(54, 218, 13);
 }
 
 .topnav a {
 float: left;
-color: #f2f2f2;
+color: #000000;
 text-align: center;
 padding: 14px 16px;
 text-decoration: none;
@@ -22,7 +22,7 @@ color: black;
 }
 
 .topnav a.active {
-background-color: #4CAF50;
+background-color: #1c6b1e;
 color: white;
 }
 
