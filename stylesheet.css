@@ -33,6 +33,12 @@ color: white;
     justify-content:center;
 }
 
+.div-index{
+    margin:5px;
+    float: left;
+    width: 400px;
+}
+
 .div-profile{
     margin:5px;
     float: left;
