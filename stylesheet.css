@@ -39,7 +39,13 @@ color: white;
     width: 400px;
 }
 
-.div-profile{
+.div-index{
+    margin:5px;
+    width: 600px;
+
+}
+
+.div-thoughts{
     margin:5px;
     float: left;
     width: 400px;
