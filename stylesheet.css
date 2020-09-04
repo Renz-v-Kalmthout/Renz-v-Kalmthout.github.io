@@ -33,7 +33,7 @@ color: white;
     justify-content:center;
 }
 
-.div-index{
+.div-profile{
     margin:5px;
     float: left;
     width: 400px;
@@ -47,6 +47,7 @@ color: white;
 
 .div-thoughts{
     margin:5px;
+
     width: 400px;
 }
 
