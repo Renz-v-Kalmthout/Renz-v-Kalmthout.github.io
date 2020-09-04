@@ -33,21 +33,21 @@ color: white;
     justify-content:center;
 }
 
-.profile{
+.divprofile{
     margin:5px;
     float: left;
     width: 400px;
 }
 
-.index{
+.divindex{
     margin:10px;
     width: 600px;
 
 }
 
-.thoughts{
+.divthoughts{
     margin:5px;
-
+    float: left;
     width: 400px;
 }
 
