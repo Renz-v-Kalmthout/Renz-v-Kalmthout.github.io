@@ -4,7 +4,7 @@ background: rgb(221, 200, 200);
 }
 .topnav {
 overflow: hidden;
-background:linear-gradient(35deg, #CCFFFF, #9ae7ec,#d4c4c1 #fabfbf);
+background:linear-gradient(35deg, #CCFFFF, #9ae7ec,#d4c4c1, #fabfbf);
 }
 
 .topnav a {
