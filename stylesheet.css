@@ -1,10 +1,10 @@
 body{
-background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+background: #ddd;
 
 }
 .topnav {
 overflow: hidden;
-background-color: rgb(54, 218, 13);
+background:linear-gradient(35deg, #CCFFFF, #FFCCCC);
 }
 
 .topnav a {
