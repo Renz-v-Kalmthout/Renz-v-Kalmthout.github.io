@@ -56,3 +56,8 @@ width: 200px;
 border-radius: 20px;
 }
 
+.divlinks{
+ border:5px;
+ transform: skewX(-15deg);
+}
+
