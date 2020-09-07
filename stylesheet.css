@@ -4,7 +4,7 @@ background-color:rgb(250, 242, 231);
 }
 .topnav {
 overflow: hidden;
-background-color:linear-gradient(45 deg, rgb(7, 114, 22), rgb(71, 219, 96));
+background-image: linear-gradient(35deg, #178601, #90e469);
 }
 
 .topnav a {
