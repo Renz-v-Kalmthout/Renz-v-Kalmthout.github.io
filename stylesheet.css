@@ -58,11 +58,13 @@ border-radius: 20px;
 
 .divlinks{
  width:40%;
- margin: 20px;
+ margin: 25px;
  border:2px;
  border-style: solid;
  border-color:black;
  transform: skewX(-15deg);
  text-align: center;
 }
-
+.ullinks{
+ justify-content: start;
+}
