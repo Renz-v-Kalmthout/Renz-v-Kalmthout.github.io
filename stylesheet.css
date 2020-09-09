@@ -19,7 +19,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 }
 
 .topnav a:hover {
-background-color: #ddd;
+background-color: rgb(197, 195, 195);
 color: black;
 }
 
