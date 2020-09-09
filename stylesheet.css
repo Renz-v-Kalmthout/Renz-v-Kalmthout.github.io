@@ -114,7 +114,7 @@ border-radius: 20px;
   }
   
   #dashboardtable td,#dashboardtable th {
-    border: 1px solid #ddd;
+    border: 4px solid #ddd;
     padding: 8px;
   }
   
