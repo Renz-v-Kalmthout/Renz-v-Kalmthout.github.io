@@ -118,14 +118,10 @@ border-radius: 20px;
     padding: 8px;
   }
   
-  #dashboardtable tr:nth-child(even){background-color: #f2f2f2;}
-  
-  #dashboardtable tr:hover {background-color: #ddd;}
-  
   #dashboardtable th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
-    background-color: #4CAF50;
+    background-color: #4ca3af;
     color: white;
   }
