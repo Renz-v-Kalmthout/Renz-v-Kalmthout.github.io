@@ -125,3 +125,20 @@ border-radius: 20px;
     background-color: #4ca3af;
     color: white;
   }
+
+  #ECtable {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  }
+  
+  #ECtable td,#ECtable th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #ECtable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4ca3af;
+    color: white;
+  }
