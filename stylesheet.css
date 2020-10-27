@@ -142,3 +142,8 @@ border-radius: 20px;
     background-color: #4ca3af;
     color: white;
   }
+
+  #viewTable tr{
+    width: 400px;
+    
+  }
