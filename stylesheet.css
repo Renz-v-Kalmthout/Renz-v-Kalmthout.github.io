@@ -147,3 +147,9 @@ border-radius: 20px;
     width: 400px;
 
   }
+
+  .image-view{
+    width:200px;
+    height:200px;
+    justify-content:center;
+}
